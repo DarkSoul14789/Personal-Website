@@ -1,3 +1,5 @@
+# Important. This is not my official website. All the information regarding my achievements are not accurate and are present for the sole purpose of being filler data
+
 # Build a Portfolio
 I have build a responsive website that neatly displays an individual's portfolio for the Git Up Workshop by IEEE DJSCE
 
